@@ -1,4 +1,4 @@
-package edu.gus.sudoku.model;
+package io.github.guhzfernandes.sudoku.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;

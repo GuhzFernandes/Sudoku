@@ -1,7 +1,7 @@
-package edu.gus.sudoku.repository;
+package io.github.guhzfernandes.sudoku.repository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import edu.gus.sudoku.model.Grid;
+import io.github.guhzfernandes.sudoku.model.Grid;
 
 import java.io.File;
 import java.io.IOException;

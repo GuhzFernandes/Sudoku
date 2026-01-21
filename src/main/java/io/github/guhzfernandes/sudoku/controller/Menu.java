@@ -1,7 +1,7 @@
-package edu.gus.sudoku.controller;
-import edu.gus.sudoku.model.Grid;
-import edu.gus.sudoku.repository.GameLoader;
-import edu.gus.sudoku.util.Rules;
+package io.github.guhzfernandes.sudoku.controller;
+import io.github.guhzfernandes.sudoku.model.Grid;
+import io.github.guhzfernandes.sudoku.repository.GameLoader;
+import io.github.guhzfernandes.sudoku.util.Rules;
 
 import java.util.Scanner;
 

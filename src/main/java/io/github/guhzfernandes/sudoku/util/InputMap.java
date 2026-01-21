@@ -1,4 +1,4 @@
-package edu.gus.sudoku.util;
+package io.github.guhzfernandes.sudoku.util;
 
 public class InputMap {
     public static int[] writeCommand(String input) {

@@ -1,7 +1,7 @@
-package edu.gus.sudoku.model;
+package io.github.guhzfernandes.sudoku.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import edu.gus.sudoku.util.GridConsole;
+import io.github.guhzfernandes.sudoku.util.GridConsole;
 import java.util.Arrays;
 
 public class Grid {

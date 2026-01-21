@@ -1,8 +1,8 @@
-package edu.gus.sudoku.controller;
+package io.github.guhzfernandes.sudoku.controller;
 
-import edu.gus.sudoku.model.Grid;
-import edu.gus.sudoku.repository.GameSaver;
-import edu.gus.sudoku.util.InputMap;
+import io.github.guhzfernandes.sudoku.model.Grid;
+import io.github.guhzfernandes.sudoku.repository.GameSaver;
+import io.github.guhzfernandes.sudoku.util.InputMap;
 import java.util.Scanner;
 
 public class Play {

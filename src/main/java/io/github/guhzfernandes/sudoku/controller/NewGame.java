@@ -1,8 +1,8 @@
-package edu.gus.sudoku.controller;
+package io.github.guhzfernandes.sudoku.controller;
 
-import edu.gus.sudoku.model.Grid;
-import edu.gus.sudoku.model.SudokuEntry;
-import edu.gus.sudoku.repository.GameLoader;
+import io.github.guhzfernandes.sudoku.model.Grid;
+import io.github.guhzfernandes.sudoku.model.SudokuEntry;
+import io.github.guhzfernandes.sudoku.repository.GameLoader;
 import java.util.List;
 import java.util.Scanner;
 

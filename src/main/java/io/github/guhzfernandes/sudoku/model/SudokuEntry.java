@@ -1,4 +1,4 @@
-package edu.gus.sudoku.model;
+package io.github.guhzfernandes.sudoku.model;
 
 public class SudokuEntry {
     public String puzzle;

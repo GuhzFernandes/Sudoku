@@ -1,4 +1,4 @@
-package edu.gus.sudoku.util;
+package io.github.guhzfernandes.sudoku.util;
 
 public class Rules {
     public static void print() {

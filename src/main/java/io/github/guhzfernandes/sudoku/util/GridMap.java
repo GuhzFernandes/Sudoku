@@ -1,4 +1,4 @@
-package edu.gus.sudoku.util;
+package io.github.guhzfernandes.sudoku.util;
 
 public class GridMap {
     public static int column(char c) {

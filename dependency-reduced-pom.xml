@@ -25,7 +25,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>edu.gus.sudoku.App</mainClass>
+                  <mainClass>io.github.guhzfernandes.sudoku.App</mainClass>
                 </transformer>
               </transformers>
             </configuration>
